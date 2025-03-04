@@ -1,0 +1,1 @@
+def tinh_tong_sochan
